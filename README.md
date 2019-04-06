@@ -1,6 +1,6 @@
 # Newsify
 
-A newswebsite we made in a project for school: https://erik8901.github.io/Newsify/
+A newswebsite we made as a project for school: https://erik8901.github.io/Newsify/
 
 
 
