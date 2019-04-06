@@ -1,5 +1,9 @@
 # Newsify
+
 A newswebsite we made in a project for school: https://erik8901.github.io/Newsify/
+
+
+
 -- Projektarbete för Javascript del 2 --
 
 Basic procedure for Github:
